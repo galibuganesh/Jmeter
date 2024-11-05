@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Drag and Drop page Request,200,1282,909,2403,2719,3379,616,4447,0.000%,.13317,0.45,0.02
+Sortable Page Request,200,374,210,831,1239,1746,170,1845,0.000%,.13319,0.45,0.02
+TOTAL,400,828,675,2002,2403,3052,170,4447,0.000%,.26622,0.89,0.03

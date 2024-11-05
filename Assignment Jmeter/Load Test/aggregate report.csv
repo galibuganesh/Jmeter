@@ -1,0 +1,5 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Interaction page Request,100,973,769,1551,2384,4374,606,5604,0.000%,.16762,0.56,0.02
+Widges page Request,100,246,205,307,308,325,186,1568,0.000%,.16773,0.56,0.02
+Forms page Request,100,423,206,323,1735,2047,189,7119,0.000%,.16771,0.56,0.02
+TOTAL,300,547,306,907,1639,2596,186,7119,0.000%,.50243,1.69,0.06
